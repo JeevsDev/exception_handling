@@ -2,4 +2,4 @@
 
 A Flutter project to post exceptions to a standalone API.
 
-Questions?? Maile me @ jeevandevasiajohn@gmail.com 🖤
+Questions?? Mail me @ jeevandevasiajohn@gmail.com 🖤
